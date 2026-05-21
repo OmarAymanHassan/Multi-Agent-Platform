@@ -1,3 +1,6 @@
+# Project Overview
+--------------------
+
 Multi-agent orchestration system powered by **LangGraph** Supervisor Agent to coordinate multiple agents, managed with **UV**. 
 It uses specialized agents for customer support, logistics optimization, forecasting, search and analytics.
 * * *
