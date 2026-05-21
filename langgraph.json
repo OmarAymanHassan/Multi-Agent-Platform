@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "multi_agent_supervisor": "./oap_supervisor/agent.py:graph"
+  },
+  "env": ".env"
+}
