@@ -1,8 +1,3 @@
-# Multi-Agent-Platform
-This project explores and benchmarks open-source orchestration models to replicate the orchestration capabilities of Rasa Pro (Enterprise) in multi-agent systems. The goal is to evaluate alternatives that offer similar features for managing and coordinating multiple conversational agents or services.
-Project Overview
-================
-
 Multi-agent orchestration system powered by **LangGraph** Supervisor Agent to coordinate multiple agents, managed with **UV**. 
 It uses specialized agents for customer support, logistics optimization, forecasting, search and analytics.
 * * *
